@@ -7,44 +7,77 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 
 <!doctype html>
 <html lang="en">
-	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-	</head>
-	<body>
-		<Header />
-		<main>
-			<h1>🧑‍🚀 Hello, Astronaut!</h1>
-			<p>
-				Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This
-				template serves as a lightweight, minimally-styled starting point for anyone looking to build
-				a personal website, blog, or portfolio with Astro.
-			</p>
-			<p>
-				This template comes with a few integrations already configured in your
-				<code>astro.config.mjs</code> file. You can customize your setup with
-				<a href="https://astro.build/integrations">Astro Integrations</a> to add tools like Tailwind,
-				React, or Vue to your project.
-			</p>
-			<p>Here are a few ideas on how to get started with the template:</p>
-			<ul>
-				<li>Edit this page in <code>src/pages/index.astro</code></li>
-				<li>Edit the site header items in <code>src/components/Header.astro</code></li>
-				<li>Add your name to the footer in <code>src/components/Footer.astro</code></li>
-				<li>Check out the included blog posts in <code>src/content/blog/</code></li>
-				<li>Customize the blog post page layout in <code>src/layouts/BlogPost.astro</code></li>
-			</ul>
-			<p>
-				Have fun! If you get stuck, remember to <a href="https://docs.astro.build/"
-					>read the docs
-				</a> or <a href="https://astro.build/chat">join us on Discord</a> to ask questions.
-			</p>
-			<p>
-				Looking for a blog template with a bit more personality? Check out <a
-					href="https://github.com/Charca/astro-blog-template"
-					>astro-blog-template
-				</a> by <a href="https://twitter.com/Charca">Maxi Ferreira</a>.
-			</p>
-		</main>
-		<Footer />
-	</body>
+    <head>
+        <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+    </head>
+    <body>
+        <Header />
+        <main>
+            <section class="hero">
+                <h1>🌍 Welcome to Travel Link Builders!</h1>
+                <p>
+                    Your ultimate guide to mastering <strong>backlink strategies</strong> for travel websites.
+                    Boost your SEO, grow your audience, and connect with fellow travel enthusiasts!
+                </p>
+                <a href="#start" class="cta-button">Get Started</a>
+            </section>
+
+            <section id="about" class="about">
+                <h2>Why Backlinks Matter for Travel Websites</h2>
+                <p>
+                    In the competitive world of travel blogging, ranking higher on search engines is crucial.
+                    Backlinks are one of the most powerful tools in SEO, helping you:
+                </p>
+                <ul>
+                    <li>Increase your website's authority and trustworthiness.</li>
+                    <li>Drive more organic traffic to your content.</li>
+                    <li>Build relationships with other travel bloggers and influencers.</li>
+                </ul>
+                <p>
+                    On this blog, we'll share actionable tips, case studies, and resources to help you
+                    create a strong backlink profile that propels your travel website to new heights.
+                </p>
+            </section>
+
+            <section id="start" class="getting-started">
+                <h2>Getting Started with Backlink Building</h2>
+                <p>
+                    Ready to dive in? Here are a few ways to start improving your backlink strategy today:
+                </p>
+                <ul>
+                    <li><strong>Guest Posting:</strong> Write high-quality articles for other travel blogs.</li>
+                    <li>
+                        <strong>Collaborations:</strong> Partner with influencers and brands in the travel niche.
+                    </li>
+                    <li>
+                        <strong>Content Creation:</strong> Publish unique, shareable content that others want
+                        to link to.
+                    </li>
+                </ul>
+                <p>
+                    Check out our <a href="/blog">blog</a> for detailed guides and success stories from real
+                    travel bloggers.
+                </p>
+            </section>
+
+            <section class="resources">
+                <h2>Explore Our Resources</h2>
+                <p>
+                    We’ve curated a library of tools, templates, and tutorials to help you succeed. From SEO
+                    basics to advanced link-building techniques, we’ve got you covered.
+                </p>
+                <a href="/resources" class="cta-button">View Resources</a>
+            </section>
+
+            <section class="community">
+                <h2>Join Our Travel Blogger Community</h2>
+                <p>
+                    Connect with like-minded travelers and SEO experts who are passionate about growing their
+                    online presence. Share tips, ask questions, and collaborate on projects.
+                </p>
+                <a href="/community" class="cta-button">Join Now</a>
+            </section>
+        </main>
+        <Footer />
+    </body>
 </html>
