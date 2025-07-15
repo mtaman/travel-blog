@@ -19,14 +19,14 @@ For example, here are key landing pages and their suggested SEO keywords:
 
 | Page URL | Suggested Keyword |
 |----------|------------------|
-| [/روسيا](https://traveltheunion.ru/russia) | السياحة في موسكو وسانت بطرسبرغ |
-| [/جورجيا](https://traveltheunion.ru/georgia) | السفر إلى جورجيا للمسافرين العرب |
-| [/أرمينيا](https://traveltheunion.ru/armenia) | تأشيرة أرمينيا وأسعار السياحة |
-| [/إستونيا](https://traveltheunion.ru/estonia) | استكشاف إستونيا للسياح العرب |
-| [/أذربيجان](https://traveltheunion.ru/azerbaijan) | برنامج سياحي في أذربيجان |
-| [/بيلاروسيا](https://traveltheunion.ru/belarus) | زيارة بيلاروسيا بدون تأشيرة |
-| [/لاتفيا](https://traveltheunion.ru/latvia) | مدن لاتفيا السياحية |
-| [/الجمهوريات-البلطيقية](https://traveltheunion.ru/baltic) | دليل الجمهوريات البلطيقية |
+| [روسيا](https://traveltheunion.ru/russia) | السياحة في موسكو وسانت بطرسبرغ |
+| [جورجيا](https://traveltheunion.ru/georgia) | السفر إلى جورجيا للمسافرين العرب |
+| [أرمينيا](https://traveltheunion.ru/armenia) | تأشيرة أرمينيا وأسعار السياحة |
+| [إستونيا](https://traveltheunion.ru/estonia) | استكشاف إستونيا للسياح العرب |
+| [أذربيجان](https://traveltheunion.ru/azerbaijan) | برنامج سياحي في أذربيجان |
+| [بيلاروسيا](https://traveltheunion.ru/belarus) | زيارة بيلاروسيا بدون تأشيرة |
+| [لاتفيا](https://traveltheunion.ru/latvia) | مدن لاتفيا السياحية |
+| [الجمهوريات-البلطيقية](https://traveltheunion.ru/baltic) | دليل الجمهوريات البلطيقية |
 | [الصفحة الرئيسية](https://traveltheunion.ru/) | دليل السفر إلى جمهوريات الاتحاد السوفيتي |
 
 ---
